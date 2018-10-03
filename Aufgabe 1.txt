@@ -1,1 +1,22 @@
-Testtext
+A1.1
+Team: git gud
+Mitglieder: Kai Paule, Michel Thai-Thanh
+
+A1.2
+-
+
+A1.3
+- Lieferando
+- Expedia
+- Wikipedia
+- Greenpeace
+- Wordpress
+- Reddit
+- 4Chan
+- Microsoft
+- Mozilla
+- vpn.surf
+
+A1.4
+- git/github
+- Visual Studio, Notepad++, PyCharm, emacs/vim
