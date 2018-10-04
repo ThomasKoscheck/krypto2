@@ -16,6 +16,8 @@ A1.3
 - Microsoft
 - Mozilla
 - vpn.surf
+- ransomware
+- venezuele
 
 A1.4
 - git/github
